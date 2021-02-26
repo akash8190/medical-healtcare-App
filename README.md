@@ -18,7 +18,7 @@ This project is an end to end data science project that is able to predict the c
  6. Bootstrap
  7. HTML & CSS
  
- This whole Project is Deployed over <u>AWS instance over the Apache Web Server using Flask</u>
+ This whole Project is Deployed over <u>AWS instance over the Apache Web Server using Flask.</u>
  
  # Steps used for Deployment:
  a. Created the ML model and saved it using joblib.<br>
